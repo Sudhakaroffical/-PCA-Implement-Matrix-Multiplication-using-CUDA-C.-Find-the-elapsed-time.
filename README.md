@@ -118,7 +118,7 @@ int main()
 }
 ```
 ## OUTPUT:
-
+```
 
 root@MidPC:/home/student/Desktop# nvcc first.cu
 root@MidPC:/home/student/Desktop# ./a.out
@@ -155,7 +155,7 @@ Elapsed Time: 0.000037 seconds
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106 
 
-
+```
 
 
 ![image](https://github.com/Sudhakaroffical/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/118622513/bd255833-4402-409e-92a8-cf428a84423c)
